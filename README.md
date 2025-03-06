@@ -1,29 +1,35 @@
 # Portfolio-Projects
-This repository is a curated collection of my best projects, selected from my various repositories like**Data Analysis**, **Machine Learning**, **Power BI Dashboards**, **SQL**, and **Capstone Projects**. It serves as a showcase for my skills and abilities in data analysis, machine learning, business intelligence, and more.
-
+This repository is a curated collection of my best projects, selected from my various repositories like **Data Analysis**, **Machine Learning**, **Power BI Dashboards**, **SQL**, and **Capstone Projects**. It serves as a showcase for my skills and abilities in data analysis, machine learning, business intelligence, and more.
 
 ## Projects:
 
 ### Data Analysis Projects:
-- **Titanic Data Analysis**: An exploration and predictive analysis of Titanic passenger data using Python (Pandas, Matplotlib) to predict survival rates based on various factors.
+- **Churn Analysis & Prediction**: 
+  - Folder Link: [Churn Analysis & Prediction Projects](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Churn_Analysis%20%26%20Prediction)
 
+  - **Churn Analysis Dashboard**:
+    ![Churn Analysis Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Churn_Analysis%20%26%20Prediction/Churn_Analysis_Dahsboard.gif)
+
+  - **Churn Prediction Dashboard**:
+    ![Churn Prediction Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Churn_Analysis%20%26%20Prediction/Churn_Prediction_Dashboard.gif)
+
+- **Titanic Data Analysis**:
+  - Folder Link: [Titanic Data Analysis Projects](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Titanic%20Project)
 ### Machine Learning Projects:
-- **[Project Name]**: [Brief description of the ML project showcasing predictive modeling and algorithm implementation.]
 
 ### Power BI Dashboards:
-- **[Project Name]**: [Brief description of Power BI dashboard showcasing data visualization and interactive reporting.]
 
 ### SQL Projects:
-- **[Project Name]**: [Brief description of SQL project demonstrating data querying, manipulation, and reporting using SQL.]
 
 ### Capstone Projects:
-- **[Capstone Project Name]**: [Brief description of a large project combining machine learning, data analysis, and business intelligence to solve a real-world problem.]
 
 ## Technologies:
-- **Languages**: Python, SQL
+- **Languages & Databases**: Python, SQL, DAX, PostgreSQL, MySQL, SQL Server
 - **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
-- **Tools**: Power BI, Jupyter Notebooks, SQL Databases (MySQL, PostgreSQL)
-- **Others**: DAX, Machine Learning Algorithms, Data Preprocessing
+- **Tools**: Power BI, Jupyter Notebooks, SQL Databases (MySQL, PostgreSQL), Tableau, Excel (Power Query, VBA, Pivot Tables)
+- **Data Engineering & ETL**: Data Preprocessing, Feature Engineering, Data Warehousing
+- **Machine Learning & Statistical Analysis**: Logistic Regression, Random Forest, KNN, Data Scaling & Normalization, Time Series Analysis
+
 
 ## Folder Structure:
 - **projects/**: The folder containing the actual projects from each domain (Data Analysis, ML, Power BI, SQL, Capstone).
