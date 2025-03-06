@@ -13,8 +13,21 @@ This repository is a curated collection of my best projects, selected from my va
   - **Churn Prediction Dashboard**:
     ![Churn Prediction Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Churn_Analysis%20%26%20Prediction/Churn_Prediction_Dashboard.gif)
 
+- **Tableau SuperStore Sale Dashboard**:
+  - Folder Link: [Tableau SuperStore Sale Dashboard Projects](https://github.com/TheintThinzarAung/All-about-Dashboards/tree/main/TableauSuperStoreSaleDashboard)
+  
+  - **Tableau Dashboard**:
+    ![Tableau SuperStore Sale Dashboard](https://github.com/TheintThinzarAung/All-about-Dashboards/blob/main/TableauSuperStoreSaleDashboard/Visulization.gif)
+
+- **Sale Performance Analysis**:
+  - Folder Link: [Sale Performance Analysis Projects](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Sale%20Performance%20Analysis)
+
+  - **Sale Performance Dashboard**:
+    ![Sale Performance Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Sale%20Performance%20Analysis/SaleDashboard.gif)
+
 - **Titanic Data Analysis**:
   - Folder Link: [Titanic Data Analysis Projects](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Titanic%20Project)
+
 ### Machine Learning Projects:
 
 ### Power BI Dashboards:
@@ -29,7 +42,6 @@ This repository is a curated collection of my best projects, selected from my va
 - **Tools**: Power BI, Jupyter Notebooks, SQL Databases (MySQL, PostgreSQL), Tableau, Excel (Power Query, VBA, Pivot Tables)
 - **Data Engineering & ETL**: Data Preprocessing, Feature Engineering, Data Warehousing
 - **Machine Learning & Statistical Analysis**: Logistic Regression, Random Forest, KNN, Data Scaling & Normalization, Time Series Analysis
-
 
 ## Folder Structure:
 - **projects/**: The folder containing the actual projects from each domain (Data Analysis, ML, Power BI, SQL, Capstone).
