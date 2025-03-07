@@ -1,58 +1,49 @@
-<h1 align="center">Hi 👋, I'm Theint Thinzar Aung</h1>
-<h3 align="center">A Data Analyst from Silicon Valley</h3>
+# Portfolio-Projects
+This repository is a curated collection of my best projects, selected from my various repositories like **Data Analysis**, **Machine Learning**, **Power BI Dashboards**, **SQL**, and **Capstone Projects**. It serves as a showcase for my skills and abilities in data analysis, machine learning, business intelligence, and more.
 
-<p align="center">
-  <img src="https://github.com/TheintThinzarAung/test/blob/main/DataAnalyst.gif" alt="Data Analyst GIF" width="600"/>
-</p>
+## Projects:
 
----
+### Data Analysis Projects:
+- **Churn Analysis & Prediction**: 
+  - Folder Link: [Churn Analysis & Prediction Projects](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Churn_Analysis%20%26%20Prediction)
 
-# 🤖 **Welcome to my Tech Universe!** 🤖
+  - **Churn Analysis Dashboard**:
+    ![Churn Analysis Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Churn_Analysis%20%26%20Prediction/Churn_Analysis_Dahsboard.gif)
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=theintthinzaraung&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
+  - **Churn Prediction Dashboard**:
+    ![Churn Prediction Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Churn_Analysis%20%26%20Prediction/Churn_Prediction_Dashboard.gif)
 
-- 🔭 I’m currently working on **Capstone Project**
-- 📫 Reach me at **theintthinzaraung1995@gmail.com**
+- **Tableau SuperStore Sale Dashboard**:
+  - Folder Link: [Tableau SuperStore Sale Dashboard Projects](https://github.com/TheintThinzarAung/All-about-Dashboards/tree/main/TableauSuperStoreSaleDashboard)
+  
+  - **Tableau Dashboard**:
+    ![Tableau SuperStore Sale Dashboard](https://github.com/TheintThinzarAung/All-about-Dashboards/blob/main/TableauSuperStoreSaleDashboard/Visulization.gif)
 
----
+- **Sale Performance Analysis**:
+  - Folder Link: [Sale Performance Analysis Projects](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Sale%20Performance%20Analysis)
 
-## 🌐 **Connect with me:**
-<p align="center">
-  <a href="https://www.linkedin.com/in/theint-thinzar-aung/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/theintthinzarau1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40"/>
-  </a>
-  <a href="https://leetcode.com/theint_thinzar_aung/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
-  </a>
-</p>
+  - **Sale Performance Dashboard**:
+    ![Sale Performance Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Sale%20Performance%20Analysis/SaleDashboard.gif)
 
----
+- **Titanic Data Analysis**:
+  - Folder Link: [Titanic Data Analysis Projects](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Titanic%20Project)
 
-## 💻 **Tech Stack:**
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50"/> </a>
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/> </a>
-</p>
+### Machine Learning Projects:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
+### Power BI Dashboards:
 
----
+### SQL Projects:
 
-> **"Data is the new oil, and I'm refining it!"** 🚀
+### Capstone Projects:
+
+## Technologies:
+- **Languages & Databases**: Python, SQL, DAX, PostgreSQL, MySQL, SQL Server
+- **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+- **Tools**: Power BI, Jupyter Notebooks, SQL Databases (MySQL, PostgreSQL), Tableau, Excel (Power Query, VBA, Pivot Tables)
+- **Data Engineering & ETL**: Data Preprocessing, Feature Engineering, Data Warehousing
+- **Machine Learning & Statistical Analysis**: Logistic Regression, Random Forest, KNN, Data Scaling & Normalization, Time Series Analysis
+
+## Folder Structure:
+- **projects/**: The folder containing the actual projects from each domain (Data Analysis, ML, Power BI, SQL, Capstone).
+- **visualizations/**: Screenshots and images of important visualizations (e.g., Power BI dashboards, charts, etc.)
+- **documentation/**: Links or markdown files with detailed documentation on each project.
