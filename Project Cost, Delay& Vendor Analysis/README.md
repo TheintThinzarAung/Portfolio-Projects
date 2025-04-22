@@ -14,10 +14,10 @@ This project simulates real-world experience as a **Data Analyst** at a tech-ena
 ---
 
 ## 🔗 Key Files  
-- [📄 Final Business Report (PDF)](./Business%20Report.pdf)  
-- [📊 Power BI File (PBIX)](./ConstructionAnalysisReports.pbix)  
+- [📄 Final Business Report (PDF)](./Business%Report.pdf)
+- [📊 Power BI File (PBIX)](./ConstructionAnlaysisReports.pbix)
 - [🧾 SQL Queries](./SQL.sql)  
-- [📂 Cleaned Data (CSV)](./data)
+- [📂 Data (CSV)](./data)
 
 ---
 
