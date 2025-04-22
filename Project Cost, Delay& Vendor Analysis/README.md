@@ -14,10 +14,10 @@ This project simulates real-world experience as a **Data Analyst** at a tech-ena
 ---
 
 ## 🔗 Key Files  
-- [📄 Final Business Report (PDF)](./Business%Report.pdf)
-- [📊 Power BI File (PBIX)](./ConstructionAnlaysisReports.pbix)
+- [📄 Final Business Report (PDF)](https://github.com/TheintThinzarAung/Portfolio-Projects/blob/main/Project%20Cost%2C%20Delay%26%20Vendor%20Analysis/Bussiness%20Report.pdf)  
+- [📊 Power BI File (PBIX)](https://github.com/TheintThinzarAung/Portfolio-Projects/blob/main/Project%20Cost%2C%20Delay%26%20Vendor%20Analysis/ConstructionAnlaysisReports.pbix)  
 - [🧾 SQL Queries](./SQL.sql)  
-- [📂 Data (CSV)](./data)
+- [📂 Cleaned Data (CSV)](./data)
 
 ---
 
