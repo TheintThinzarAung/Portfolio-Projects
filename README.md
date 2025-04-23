@@ -1,49 +1,53 @@
-# Portfolio-Projects
-This repository is a curated collection of my best projects, selected from my various repositories like **Data Analysis**, **Machine Learning**, **Power BI Dashboards**, **SQL**, and **Capstone Projects**. It serves as a showcase for my skills and abilities in data analysis, machine learning, business intelligence, and more.
+# 📁 Portfolio Projects
 
-## Projects:
+Welcome! This portfolio showcases a curated collection of my best end-to-end projects in business intelligence, data analytics, and predictive modeling — each thoughtfully recreated to reflect real business problems I've solved in past roles.
 
-### Data Analysis Projects:
-- **Churn Analysis & Prediction**: 
-  - Folder Link: [Churn Analysis & Prediction Projects](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Churn_Analysis%20%26%20Prediction)
+While original company data and reports remain confidential, these projects use public or simulated datasets — some inspired by public learning resources — to demonstrate the same technical skills, workflows, and business impact I delivered professionally.
 
-  - **Churn Analysis Dashboard**:
-    ![Churn Analysis Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Churn_Analysis%20%26%20Prediction/Churn_Analysis_Dahsboard.gif)
 
-  - **Churn Prediction Dashboard**:
-    ![Churn Prediction Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Churn_Analysis%20%26%20Prediction/Churn_Prediction_Dashboard.gif)
+---
 
-- **Tableau SuperStore Sale Dashboard**:
-  - Folder Link: [Tableau SuperStore Sale Dashboard Projects](https://github.com/TheintThinzarAung/All-about-Dashboards/tree/main/TableauSuperStoreSaleDashboard)
-  
-  - **Tableau Dashboard**:
-    ![Tableau SuperStore Sale Dashboard](https://github.com/TheintThinzarAung/All-about-Dashboards/blob/main/TableauSuperStoreSaleDashboard/Visulization.gif)
+## 🌟 Featured Projects
 
-- **Sale Performance Analysis**:
-  - Folder Link: [Sale Performance Analysis Projects](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Sale%20Performance%20Analysis)
+### 🏗️ [Project Cost, Delay & Vendor Analysis](https://github.com/TheintThinzarAung/Portfolio-Projects/tree/main/Project%20Cost%2C%20Delay%26%20Vendor%20Analysis)
+**Tools**: Power BI · SQL · DAX · Excel  
+**Focus**: Budget overruns, delay risks, vendor optimization  
+🎥 Dashboard Demo:  
+<img src="https://github.com/TheintThinzarAung/Portfolio-Projects/blob/main/Project%20Cost%2C%20Delay%26%20Vendor%20Analysis/Construction%20Cost%20Overview%20Dashboard.gif" width="800"/>
 
-  - **Sale Performance Dashboard**:
-    ![Sale Performance Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Sale%20Performance%20Analysis/SaleDashboard.gif)
+---
 
-- **Titanic Data Analysis**:
-  - Folder Link: [Titanic Data Analysis Projects](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Titanic%20Project)
+### 📉 [Churn Analysis & Prediction](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Churn_Analysis%20%26%20Prediction)
+**Tools**: Power BI · Python  
+**Focus**: Customer churn segmentation and prediction  
+🎥 Demos:  
+<img src="https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Churn_Analysis%20%26%20Prediction/Churn_Analysis_Dahsboard.gif" width="800"/>
+<img src="https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Churn_Analysis%20%26%20Prediction/Churn_Prediction_Dashboard.gif" width="800"/>
 
-### Machine Learning Projects:
+---
 
-### Power BI Dashboards:
+### 📦 [Sales Performance Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Sale%20Performance%20Analysis)
+**Tools**: Power BI · Excel  
+**Focus**: Profitability by region, product category, and year  
+🎥 Demo:  
+<img src="https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Sale%20Performance%20Analysis/SaleDashboard.gif" width="800"/>
 
-### SQL Projects:
+---
 
-### Capstone Projects:
+### 📊 [Tableau SuperStore Sales Dashboard](https://github.com/TheintThinzarAung/All-about-Dashboards/tree/main/TableauSuperStoreSaleDashboard)
+**Tools**: Tableau  
+**Focus**: Sales by segment, category, and region  
+🎥 Demo:  
+<img src="https://github.com/TheintThinzarAung/All-about-Dashboards/blob/main/TableauSuperStoreSaleDashboard/Visulization.gif" width="800"/>
 
-## Technologies:
-- **Languages & Databases**: Python, SQL, DAX, PostgreSQL, MySQL, SQL Server
-- **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
-- **Tools**: Power BI, Jupyter Notebooks, SQL Databases (MySQL, PostgreSQL), Tableau, Excel (Power Query, VBA, Pivot Tables)
-- **Data Engineering & ETL**: Data Preprocessing, Feature Engineering, Data Warehousing
-- **Machine Learning & Statistical Analysis**: Logistic Regression, Random Forest, KNN, Data Scaling & Normalization, Time Series Analysis
+---
 
-## Folder Structure:
-- **projects/**: The folder containing the actual projects from each domain (Data Analysis, ML, Power BI, SQL, Capstone).
-- **visualizations/**: Screenshots and images of important visualizations (e.g., Power BI dashboards, charts, etc.)
-- **documentation/**: Links or markdown files with detailed documentation on each project.
+## 💻 Tech Stack
+
+**Languages & Databases**: Python, SQL, DAX, MySQL, SQL Server  
+**Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow  
+**Tools**: Power BI, Tableau, Excel, Jupyter  
+**Focus Areas**: Dashboards · Reporting · Machine Learning · Forecasting · Vendor & Cost Analysis
+
+---
+
