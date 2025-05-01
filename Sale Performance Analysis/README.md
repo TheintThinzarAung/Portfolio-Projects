@@ -9,7 +9,7 @@ This project simulates the role of a **Sales Analyst** supporting data-driven pr
 
 ## 🎥 Dashboard Demo
 
-<img src="./Sale%20Performance%20Analysis/demo.gif" alt="Dashboard Demo" width="800"/>
+<img src="https://github.com/TheintThinzarAung/Portfolio-Projects/blob/main/Sale%20Performance%20Analysis/demo.gif" alt="Dashboard Demo" width="800"/>
 
 ---
 
@@ -23,7 +23,7 @@ This project simulates the role of a **Sales Analyst** supporting data-driven pr
 
 ## 📈 Summary Insights  
 - 📈 **284% YoY growth** identified across core product segments  
-- 💡 Flagged margin inefficiencies and pricing gaps by SKU  
+- 💡 Flagged margin inefficiencies. 
 - 📅 Uncovered seasonal sales peaks for optimized planning
 
 > ✅ Supported an expected 7% revenue lift by aligning pricing and promotion strategies with high-performing regions and products.
