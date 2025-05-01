@@ -1,29 +1,51 @@
-# 📈 Sales Performance & Margin Analysis
+# 📁 Portfolio Projects
 
-This project simulates the role of a **Sales Analyst** supporting data-driven pricing and product decisions. I analyzed over 1.1M+ transaction records to surface revenue trends, segment performance, and margin leakages — then delivered a Power BI dashboard to guide executive planning.
+Welcome! This portfolio showcases a curated collection of my best end-to-end projects in business intelligence, data analytics, and predictive modeling — each thoughtfully recreated to reflect real business problems I've solved in past roles.
 
-🛠️ Tools: Power BI · DAX · Power Query · Excel  
-📊 Deliverables: KPI dashboard · Executive report · Clean dataset
-
----
-
-## 🎥 Dashboard Demo
-
-<img src="./Sale%20Performance%20Analysis/demo.gif" alt="Dashboard Demo" width="800"/>
+While original company data and reports remain confidential, these projects use public or simulated datasets — some inspired by public learning resources — to demonstrate the same technical skills, workflows, and business impact I delivered professionally.
 
 ---
 
-## 🔗 Key Files  
-- [📊 Power BI Report (.pbix)](./Sale%20Performance%20Analysis/Sale_Report_project.pbix)  
-- [📄 Executive Summary Report (.docx)](./Sale%20Performance%20Analysis/Sales%20Performance%20Executive%20Report.docx)  
-- [🧮 DAX Formulas Used (.docx)](./Sale%20Performance%20Analysis/DAX%20Formula.docx)  
-- [📂 Financial Data (CSV)](./Sale%20Performance%20Analysis/financial_data.csv)
+## 🌟 Featured Projects
+
+### 🏗️ [Project Cost, Delay & Vendor Analysis](https://github.com/TheintThinzarAung/Portfolio-Projects/tree/main/Project%20Cost%2C%20Delay%26%20Vendor%20Analysis)  
+**Tools**: Power BI · SQL · DAX · Excel  
+**Focus**: Budget overruns, delay risks, vendor optimization  
+🎥 Dashboard Demo:  
+<img src="https://github.com/TheintThinzarAung/Portfolio-Projects/blob/main/Project%20Cost%2C%20Delay%26%20Vendor%20Analysis/Construction%20Cost%20Overview%20Dashboard.gif" width="800"/>
 
 ---
 
-## 📈 Summary Insights  
-- 📈 **284% YoY growth** identified across core product segments  
-- 💡 Flagged margin inefficiencies and pricing gaps by SKU  
-- 📅 Uncovered seasonal sales peaks for optimized planning
+### 📊 [Sales Performance & Margin Analysis](https://github.com/TheintThinzarAung/Portfolio-Projects/tree/main/Sale%20Performance%20Analysis)  
+**Tools**: Power BI · DAX · Excel  
+**Focus**: Regional sales trends, product segmentation, margin optimization  
+🎥 Dashboard Demo:  
+<img src="https://github.com/TheintThinzarAung/Portfolio-Projects/blob/main/Sale%20Performance%20Analysis/demo.gif" width="800"/>
 
-> ✅ Supported an expected 7% revenue lift by aligning pricing and promotion strategies with high-performing regions and products.
+---
+
+### 📉 [Churn Analysis & Prediction](https://github.com/TheintThinzarAung/Data-Analysis-Projects/tree/main/Churn_Analysis%20%26%20Prediction)  
+**Tools**: Power BI · Python  
+**Focus**: Customer churn segmentation and prediction  
+🎥 Demos:  
+<img src="https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Churn_Analysis%20%26%20Prediction/Churn_Analysis_Dahsboard.gif" width="800"/>  
+<img src="https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Churn_Analysis%20%26%20Prediction/Churn_Prediction_Dashboard.gif" width="800"/>
+
+---
+
+### 📊 [Tableau SuperStore Sales Dashboard](https://github.com/TheintThinzarAung/All-about-Dashboards/tree/main/TableauSuperStoreSaleDashboard)  
+**Tools**: Tableau  
+**Focus**: Sales by segment, category, and region  
+🎥 Demo:  
+<img src="https://github.com/TheintThinzarAung/All-about-Dashboards/blob/main/TableauSuperStoreSaleDashboard/Visulization.gif" width="800"/>
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Databases**: Python, SQL, DAX, MySQL, SQL Server  
+**Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow  
+**Tools**: Power BI, Tableau, Excel, Jupyter  
+**Focus Areas**: Dashboards · Reporting · Machine Learning · Forecasting · Vendor & Cost Analysis
+
+---
