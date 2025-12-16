@@ -1,8 +1,8 @@
 # 📈 Sales Performance & Margin Analysis
 
-This project simulates the role of a **Sales Analyst** supporting data-driven pricing and product decisions. I analyzed over 1.1M+ transaction records to surface revenue trends, segment performance, and margin leakages — then delivered a Power BI dashboard to guide executive planning.
+This project simulates the role of a **Data Analyst** supporting data-driven pricing and product decisions. I analyzed over 1.1M+ transaction records to surface revenue trends, segment performance, and margin leakages, then delivered a Power BI dashboard to guide executive planning.
 
-🛠️ Tools: Power BI · DAX · Power Query · Excel  
+🛠️ Tools: SQL · Power BI · DAX · Power Query · Excel  
 📊 Deliverables: KPI dashboard · Executive report · Clean dataset
 
 ---
@@ -27,3 +27,4 @@ This project simulates the role of a **Sales Analyst** supporting data-driven pr
 - 📅 Uncovered seasonal sales peaks for optimized planning
 
 > ✅ Supported an expected 7% revenue lift by aligning pricing and promotion strategies with high-performing regions and products.
+
