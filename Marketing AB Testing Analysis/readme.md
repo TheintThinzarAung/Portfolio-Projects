@@ -23,6 +23,4 @@ End-to-end A/B testing analysis to evaluate whether ad exposure increases conver
 ## Tools
 Python, Pandas, Seaborn, Matplotlib, SciPy
 
-## Notes
-- Dataset: Kaggle – Marketing A/B Testing
-- Tutorial-inspired project with independent analysis and interpretation
+
