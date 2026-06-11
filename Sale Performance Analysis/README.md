@@ -1,9 +1,8 @@
-# 📈 Sales Performance & Margin Analysis
+# 📈 Revenue & Operations Intelligence Platform
 
-This project simulates the role of a **Data Analyst** supporting data-driven pricing and product decisions. I analyzed over 1.1M+ transaction records to surface revenue trends, segment performance, and margin leakages, then delivered a Power BI dashboard to guide executive planning.
+Built an end-to-end analytics platform that transformed 1.1M+ sales and operational records into KPI dashboards and business insights for revenue performance, profitability, and operational planning.
 
-🛠️ Tools: SQL · Power BI · DAX · Power Query · Excel  
-📊 Deliverables: KPI dashboard · Executive report · Clean dataset
+🛠️ Tools: Snowflake | dbt | SQL | Airflow | AWS S3 | Power BI 
 
 ---
 
