@@ -1,6 +1,6 @@
 # 🏗️ Construction Cost, Delay & Vendor Analysis
 
-This project simulates real-world experience as a **Data Analyst** at a tech-enabled construction firm. I worked cross-functionally with operations and finance to uncover cost overruns, delay drivers, and vendor inefficiencies — then built a Power BI solution to support smarter decisions.
+This project simulates real-world experience at a tech-enabled construction firm. I worked cross-functionally with operations and finance to uncover cost overruns, delay drivers, and vendor inefficiencies — then built a Power BI solution to support smarter decisions.
 
 🛠️ Tools: Power BI · SQL · DAX · Excel  
 📊 Deliverables: KPI dashboards · SQL logic · Executive report
